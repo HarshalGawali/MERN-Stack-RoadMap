@@ -3,8 +3,8 @@
 Full-Stack JavaScript Developer Roadmap
 Hello! I've created this list to help you to get started with JavaScript development. The list below contains a collection of links that have helped me out along the way (and can hopefully help you).
 
-Table of Contents
-Basic Concepts
+**Table of Contents**
+ 1. Basic Concepts
 HTML
 CSS
 JavaScript
